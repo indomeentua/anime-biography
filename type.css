@@ -80,6 +80,40 @@
     border-radius: 10px;
 }
 
+#poch {
+    border: 3px solid white;
+    width: 120px;
+    border-radius: 10px;
+}
+
+#aki {
+    border: 3px solid white;
+    width: 75px;
+    border-radius: 10px;
+}
+
+#himeno {
+    border: 3px solid white;
+    width: 120px;
+    border-radius: 10px;
+}
+
+#etim {
+    border: 3px solid white;
+    width: 190px;
+    border-radius: 10px;
+}
+
+#raz {
+    border: 3px solid white;
+    width: 110px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: white;
+}
+
 lu {
     color: white;
 }
