@@ -1,0 +1,204 @@
+#anim {
+    border: 3px solid white;
+    width: 115px;
+    border-radius: 10px;
+}
+
+#an {
+    border: 3px solid white;
+    width: 185px;
+    border-radius: 10px;
+}
+
+#pers {
+    border: 3px solid white;
+    width: 185px;
+    border-radius: 10px;
+}
+
+#per {
+    border: 3px solid white;
+    width: 230px;
+    border-radius: 10px;
+}
+
+#den {
+    border: 3px solid white;
+    width: 115px;
+    border-radius: 10px;
+}
+
+#vnesh {
+    color: white;
+    border: 3px solid white;
+    width: 165px;
+    border-radius: 10px;
+}
+
+#lic {
+    color: white;
+    border: 3px solid white;
+    width: 155px;
+    border-radius: 10px;
+}
+
+#prosh {
+    border: 3px solid white;
+    width: 140px;
+    border-radius: 10px;
+}
+
+#otnosh {
+    color: white;
+    border: 3px solid white;
+    width: 180px;
+    border-radius: 10px;
+}
+
+#spos {
+    color: white;
+    border: 3px solid white;
+    width: 190px;
+    border-radius: 10px;
+}
+
+#nav {
+    border: 3px solid white;
+    width: 130px;
+    border-radius: 10px;
+}
+
+#pau {
+    border: 3px solid white;
+    width: 100px;
+    border-radius: 10px;
+}
+
+#mak {
+    border: 3px solid white;
+    width: 130px;
+    border-radius: 10px;
+}
+
+li {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: black;
+}
+
+.menu {
+    color: white;
+}
+
+.menu:hover {
+    border: 3px solid white;
+    border-radius: 10px;
+    color: black;
+    background-color: white;
+}
+
+.benz {
+    color: orange;
+}
+
+.benz:hover {
+    color: black;
+    background-color: orange;
+    padding: 3px;
+    font-weight: 900;
+    border: solid white;
+    border-radius: 10px;
+}
+
+.ghoule {
+    color: red;
+}
+
+.ghoule:hover {
+    color: black;
+    background-color: red;
+    padding: 3px;
+    font-weight: 900;
+    border: solid white;
+    border-radius: 10px;
+}
+
+.denzi {
+    color: orange;
+    font-size: 30px;
+}
+
+.pauer {
+    color: yellow;
+    font-size: 30px;
+}
+
+.makima {
+    color: pink;
+    font-size: 30px;
+}
+
+.aki {
+    color: blue;
+    font-size: 30px;
+}
+
+.pachi {
+    color: orange;
+    font-size: 30px;
+}
+
+.denzi:hover {
+    color: black;
+    background-color: orange;
+    padding: 1px;
+    font-weight: 900;
+    border: solid white;
+    border-radius: 10px;
+}
+
+.pauer:hover {
+    color: black;
+    background-color: yellow;
+    padding: 1px;
+    font-weight: 900;
+    border: solid white;
+    border-radius: 10px;
+}
+
+.makima:hover {
+    color: black;
+    background-color: pink;
+    padding: 1px;
+    font-weight: 900;
+    border: solid white;
+    border-radius: 10px;
+}
+
+.aki:hover {
+    color: white;
+    background-color: blue;
+    padding: 1px;
+    font-weight: 900;
+    border: solid white;
+    border-radius: 10px;
+}
+
+.pachi:hover {
+    color: black;
+    background-color: orange;
+    padding: 1px;
+    font-weight: 900;
+    border: solid white;
+    border-radius: 10px;
+}
