@@ -80,7 +80,7 @@
     border-radius: 10px;
 }
 
-li {
+lu {
     color: white;
 }
 
@@ -94,6 +94,30 @@ a {
 
 body {
     background-color: black;
+}
+
+.angel {
+    color: brown;
+    font-size: 30px;
+}
+
+.angel:hover {
+    border: 3px solid white;
+    border-radius: 10px;
+    color: black;
+    background-color: brown;
+}
+
+.himeno {
+    color: #ff0000;
+    font-size: 30px;
+}
+
+.himeno:hover {
+    border: 3px solid white;
+    border-radius: 10px;
+    color: black;
+    background-color: red;
 }
 
 .menu {
